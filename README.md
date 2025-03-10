@@ -1,14 +1,8 @@
 # Heya, I'm Carol 👋
 
-Welcome to my GitHub! I have 5+ years of experience in tech companies, specialising in business operations, data analysis and product design. With a passion for problem-solving and a curiosity for understanding complex systems, I’ve had the privilege of collaborating with diverse teams across various industries.
+Welcome to my GitHub! With 5+ years of experience in tech companies, I specialise in data analysis and product design. Driven by a passion for problem-solving and a curiosity about understanding complex systems, I’ve had the privilege of collaborating with diverse teams across various industries.
 
-I thrive on embracing new challenges and learning opportunities. I'm excited to share my knowledge, collaborate on meaningful projects, and help create a positive impact on the world.
-
-## 🌍 About Me
-
-I’m a versatile professional who blends strategic thinking with creative problem-solving. Throughout my career, I’ve developed a deep understanding of how to balance both business analysis and product design, making me a valuable asset for teams aiming to bridge the gap between technology and user-centric solutions. 
-
-Driven by my passion for continuous growth, I’m open to opportunities to collaborate with teams and companies that share my vision of making a difference.
+As a versatile professional, I combine strategic thinking with creative problem-solving and thrive on embracing new challenges and learning opportunities. I'm eager to share my knowledge, collaborate on meaningful projects, and contribute to creating a positive impact on the world.
 
 ## 🔧 Top Skills
 - 📊 **Data Analysis**: Expertise in gathering, interpreting, and presenting data to drive informed decision-making.
@@ -17,7 +11,7 @@ Driven by my passion for continuous growth, I’m open to opportunities to colla
 - 💭 **Design Thinking**: Focused on creating human-centred solutions by understanding user needs and pain points.
 
 ## 🌱 Current Focus
-I am currently exploring opportunities that challenge my thinking and allow me to contribute meaningfully to projects that have a positive impact. I’m particularly excited about exploring **data anslysis**, **business operations**, and **data-driven decision-making**.
+Driven by my passion for continuous growth, I’m currently exploring opportunities that challenge my thinking and allow me to contribute meaningfully to projects that have a positive impact. I’m particularly excited about exploring **data analysis**, **business operations**, and **data-driven decision-making**.
 
 ## 📈 Let's Connect
 
