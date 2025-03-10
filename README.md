@@ -24,6 +24,3 @@ I am currently exploring opportunities that challenge my thinking and allow me t
 Feel free to explore my projects, contribute, or simply get in touch! You can reach me via:
 - [LinkedIn](https://www.linkedin.com/in/carolina-ciardi-romeo/)
 
-<img src="https://raw.githubusercontent.com/CarolCiardi/CarolCiardi/output/snake.svg" alt="Snake animation" />
-
-###
