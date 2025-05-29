@@ -16,5 +16,5 @@ Driven by my passion for continuous growth, I’m currently exploring opportunit
 ## 📈 Let's Connect
 
 Feel free to explore my projects, contribute, or simply get in touch! You can reach me via:
-- [LinkedIn](https://www.linkedin.com/in/carolina-ciardi-romeo/)
+- [LinkedIn](https://www.linkedin.com/in/carolinaciardiromeo/)
 
