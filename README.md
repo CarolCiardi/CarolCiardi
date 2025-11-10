@@ -1,4 +1,4 @@
-# Heya, I'm Carol 👋
+# Heya, I'm Lina 👋
 
 Welcome to my GitHub! With 4+ years of experience in tech companies, I specialise in business and data analysis. Driven by a passion for problem-solving and a curiosity about understanding complex systems, I’ve had the privilege of collaborating with diverse teams across various industries.
 
